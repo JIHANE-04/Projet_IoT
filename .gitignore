@@ -1,0 +1,24 @@
+# --- Sécurité ---
+# Ne jamais monter de mots de passe ou tokens
+mdp.txt
+.env
+secrets.json
+
+# --- Python ---
+# Fichiers de compilation automatique
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Base de données ---
+# On ne partage pas la base locale SQLite
+*.sqlite3
+
+# --- Environnement ---
+# Dossiers des bibliothèques installées
+venv/
+env/
+.venv/
+bin/
+lib/
