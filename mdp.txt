@@ -1,7 +1,0 @@
-azlo xvof zody uezj
-ouvrir compte telegram
-creer un bot
-bot father
-dans le botfather:/newbot
-nommer n'importe et finir par bot
-pip install telepot
